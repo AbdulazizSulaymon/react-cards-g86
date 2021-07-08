@@ -1,4 +1,4 @@
-# React bo'yicha 3-darsimiz kodlari
+# React bo'yicha 4-darsimiz kodlari. Klevienest
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
