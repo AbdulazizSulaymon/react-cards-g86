@@ -1,0 +1,11 @@
+.clientCard {
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.clientCard img {
+  width: 100%;
+  object-fit: cover;
+  height: 100%;
+  max-height: 300px;
+}

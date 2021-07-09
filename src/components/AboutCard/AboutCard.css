@@ -1,0 +1,12 @@
+.aboutCard {
+  display: flex;
+  align-items: flex-start;
+  border: 1px solid white;
+  border-radius: 4px;
+  padding: 26px;
+}
+
+.aboutCard img {
+  width: 70px;
+  margin-right: 20px;
+}
