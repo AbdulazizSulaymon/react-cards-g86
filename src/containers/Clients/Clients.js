@@ -16,7 +16,7 @@ const data = [
         img: "user2.png",
         name: "Regina Rolls",
         job: "Designer",
-        star: 3,
+        star: 2,
         desc: "This proved to be impossible using concepts of space and time.Einstein new view of time first and then"
     }
 ]
